@@ -45,7 +45,7 @@ The main objective was to assess workplace diversity data and propose strategies
 ---
 
 ## 👤 About Me
-Hi, I'm Moideen Siyad! I completed this task as part of my journey to enhance my data analytics and workplace diversity assessment skills. Feel free to connect with me on LinkedIn - (<linkedin.com/in/moideen-siyad-a44649235>)
+Hi, I'm Moideen Siyad! I completed this task as part of my journey to enhance my data analytics and workplace diversity assessment skills. Feel free to connect with me on [LinkedIn] - <(https://www.linkedin.com/in/moideen-siyad-a44649235/)>
 ---
 
 ### Acknowledgments
